@@ -1,0 +1,4 @@
+git init
+git add ecc_2017.csv
+git commit -m "Mensaje descriptivo del commit"
+git push origin main
